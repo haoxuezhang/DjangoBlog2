@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cms.iml" filepath="$PROJECT_DIR$/.idea/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-cms-master/.idea/django-cms-master.iml" filepath="$PROJECT_DIR$/../django-cms-master/.idea/django-cms-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jianshu/.idea/jianshu.iml" filepath="$PROJECT_DIR$/../jianshu/.idea/jianshu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lylinux/.idea/lylinux.iml" filepath="$PROJECT_DIR$/../lylinux/.idea/lylinux.iml" />
+    </modules>
+  </component>
+</project>
